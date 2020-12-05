@@ -1,3 +1,9 @@
 # Advent of Code 2020
 
 One language per day, as always
+
+## Languages
+| Day | Language |
+|-----|----------|
+| 1   | Python   |
+| 2   | Julia    |
