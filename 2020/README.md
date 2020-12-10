@@ -9,3 +9,4 @@ One language per day, as always
 | 2   | Julia     |
 | 3   | Haskell   |
 | 4   | Haskell 👀|
+| 5   | Scala     |
