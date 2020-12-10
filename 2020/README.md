@@ -3,8 +3,9 @@
 One language per day, as always
 
 ## Languages
-| Day | Language |
-|-----|----------|
-| 1   | Python   |
-| 2   | Julia    |
-| 3   | Haskell  |
+| Day | Language  |
+|-----|-----------|
+| 1   | Python    |
+| 2   | Julia     |
+| 3   | Haskell   |
+| 4   | Haskell 👀|
