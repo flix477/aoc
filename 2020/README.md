@@ -10,3 +10,4 @@ One language per day, as always
 | 3   | Haskell   |
 | 4   | Haskell 👀|
 | 5   | Scala     |
+| 6   | Rust      |
