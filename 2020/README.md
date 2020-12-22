@@ -12,3 +12,4 @@ One language per day, as always
 | 5   | Scala             |
 | 6   | Rust              |
 | 7   | TypeScript + fp-ts|
+| 8   | Crystal           |
