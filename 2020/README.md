@@ -13,3 +13,4 @@ One language per day, as always
 | 6   | Rust              |
 | 7   | TypeScript + fp-ts|
 | 8   | Crystal           |
+| 9   | C                 |
