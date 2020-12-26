@@ -14,3 +14,4 @@ One language per day, as always
 | 7   | TypeScript + fp-ts|
 | 8   | Crystal           |
 | 9   | C                 |
+| 10  | C++17             |
