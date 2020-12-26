@@ -4,8 +4,8 @@ With a different language for every challenge (or atleast I'll try)
 ## Languages
 | Day | Language |
 |-----|----------|
-| 1   | Go       |
-| 2   | Haskell  |
-| 3   | Kotlin   |
-| 4   | Python   |
-| 5   | C        |
+| 01  | Go       |
+| 02  | Haskell  |
+| 03  | Kotlin   |
+| 04  | Python   |
+| 05  | C        |

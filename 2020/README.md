@@ -5,13 +5,13 @@ One language per day, as always
 ## Languages
 | Day | Language          |
 |-----|-------------------|
-| 1   | Python            |
-| 2   | Julia             |
-| 3   | Haskell           |
-| 4   | Haskell 👀        |
-| 5   | Scala             |
-| 6   | Rust              |
-| 7   | TypeScript + fp-ts|
-| 8   | Crystal           |
-| 9   | C                 |
+| 01  | Python            |
+| 02  | Julia             |
+| 03  | Haskell           |
+| 04  | Haskell 👀        |
+| 05  | Scala             |
+| 06  | Rust              |
+| 07  | TypeScript + fp-ts|
+| 08  | Crystal           |
+| 09  | C                 |
 | 10  | C++17             |
