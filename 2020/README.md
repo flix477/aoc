@@ -15,3 +15,4 @@ One language per day, as always
 | 08  | Crystal           |
 | 09  | C                 |
 | 10  | C++17             |
+| 11  | Java              |
